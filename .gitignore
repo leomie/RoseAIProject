@@ -1,0 +1,5 @@
+models/
+.env
+.vscode/
+__pycache__/
+pyannote_diarization_config.yaml
