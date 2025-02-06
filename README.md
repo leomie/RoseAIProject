@@ -9,7 +9,7 @@
 
 Rose is a personal project 100% based in python, made for 3.9.9 but expected to work in newer versions out of the box.
 
-Uses a combination of local and cloud resources to run, but it can be changed to run fully locally if you have the hardware to do so. Beware that using local resource can lead to increased or reduced latency depending on your hardware.
+Uses a combination of local and cloud resources to run, but it can be changed to run fully locally if you have the hardware to do so. Beware that using local resources can lead to increased or reduced latency depending on your hardware.
 
 # Resources
 
