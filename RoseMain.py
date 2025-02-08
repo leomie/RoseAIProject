@@ -6,8 +6,8 @@ import asyncio
 from twitchio.channel import Channel
 from twitchio.ext import commands
 
-from RoseSTT import *
-from TextOutput import *
+from roseSTT import *
+from textOutput import *
 
 # Other Values useful for general functioning
 # left out as no necessary within functs

@@ -7,7 +7,7 @@ import numpy as np
 import io
 import asyncio
 
-from RoseLLM import *
+from roseLLM import *
 from io import BytesIO
 from whisperx import alignment, diarize
 from shared_flag import allowed_to_continue
