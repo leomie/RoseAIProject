@@ -88,7 +88,6 @@ format = pyaudio.paInt16
 channels = 1
 rate = 16000
 
-
 # Noise threshold for silence detection
 silence_threshold = 600
 max_silent_chunks = 40
@@ -149,8 +148,6 @@ def mic_input():
 
         transcriber(audio_buffer)
 
-        
-  
     else:
         print("No significant audio detected")
 

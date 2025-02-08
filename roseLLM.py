@@ -38,7 +38,6 @@ headers = {
 
 history = []
 
-
 async def print_response_stream(text):
     # LLM POST request
     history.append({"role": "user", "content": text})

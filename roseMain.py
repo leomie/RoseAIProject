@@ -169,10 +169,5 @@ class Bot(commands.Bot):
         keyboard.on_press(self.handle_key_press)
         self.run()
 
-
-
 bot = Bot()
 bot.run_with_keyboard_input()
-
-
-   
